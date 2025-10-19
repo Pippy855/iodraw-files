@@ -19,7 +19,7 @@
         <mxCell id="CqYK25AvB9XyU7tAL3eD-2" value="打开金库" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FLGeC3J5lRYwbPE8OWPK-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FLGeC3J5lRYwbPE8OWPK-0" value="抢夺/运送金库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
