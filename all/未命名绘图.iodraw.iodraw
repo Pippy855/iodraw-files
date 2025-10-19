@@ -21,11 +21,11 @@
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1mVLUzSAZGMXNq-7tAWZ-4" target="1mVLUzSAZGMXNq-7tAWZ-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="740" as="targetPoint" />
+            <mxPoint x="410" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;提取现金&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1mVLUzSAZGMXNq-7tAWZ-0" target="1mVLUzSAZGMXNq-7tAWZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,18 +40,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;完成对局&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1mVLUzSAZGMXNq-7tAWZ-13" target="1mVLUzSAZGMXNq-7tAWZ-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="900" />
+              <mxPoint x="610" y="990" />
               <mxPoint x="610" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1mVLUzSAZGMXNq-7tAWZ-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;获取奖励与角色定制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="870" width="260" height="60" as="geometry" />
+          <mxGeometry x="280" y="960" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
